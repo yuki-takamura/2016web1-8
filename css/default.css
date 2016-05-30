@@ -3,6 +3,18 @@
 body{
  background-color : mediumaquamarine;
  }
+ #logo ul{
+  overflow:hidden;
+ }
+ #logo li{
+  display:table-cell;
+  vertical-align:middle;
+  padding:0 10px;
+  list-style-type:none;
+ }
+ #logo img{
+  width:100px;
+ }
  #gnav a{
   display:block;
   padding:10px 0;
