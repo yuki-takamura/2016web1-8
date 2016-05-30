@@ -7,12 +7,12 @@ body{
  .breadcrumbs li {
    display:inline;
    list-style-type:none;
-   }
+ }
    
-  .breadcrumbs li:before{
+ .breadcrumbs li:before{
    content:">";
-   }
+ }
    
-  .breadcrumbs li:first-child:before{
+ .breadcrumbs li:first-child:before{
    content:"";
-   }
+ }
