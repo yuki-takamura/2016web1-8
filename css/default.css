@@ -43,7 +43,7 @@ body{
  #gnav div.img{
   display:table-cell;
   vertical-align:middle;
-  background:url()no-repeat;
+  background:url(https://raw.githubusercontent.com/yuki-takamura/2016web1-8/gh-pages/sprite.png)no-repeat;
   width:55px;
   height:46px;
  }
