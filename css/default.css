@@ -53,10 +53,10 @@ body{
   padding:10px 5px;
  }
  div.img#home{ background-position:0 0px;}
- div.img#content1{background-position:0 -46px;}
- div.img#content2{background-position:0 -92px;}
- div.img#help{background-position:0 -138px;}
- div.img#faq{background-position:0 -184px;}
+ div.img#content1{background-position:0 -40px;}
+ div.img#content2{background-position:0 -80px;}
+ div.img#help{background-position:0 -120px;}
+ div.img#faq{background-position:0 -160px;}
  .breadcrumbs li:before{
   content:">";
  }
