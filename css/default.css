@@ -4,15 +4,29 @@ body{
  background-color : mediumaquamarine;
  }
  
+ #gnav ul{
+  overflow : hidden;
+ }
+ 
+ #gnav li{
+  float :left;
+  width:156px;
+  border-right:white 1px solid;
+  list-style-type:none;
+ }
+ 
+ #gnav li:first-child{
+  border-left:white 1px solid;
+ }
  .breadcrumbs li {
-   display:inline;
-   list-style-type:none;
+  display:inline;
+  list-style-type:none;
  }
-   
+ 
  .breadcrumbs li:before{
-   content:">";
+  content:">";
  }
-   
+ 
  .breadcrumbs li:first-child:before{
-   content:"";
+  content:"";
  }
