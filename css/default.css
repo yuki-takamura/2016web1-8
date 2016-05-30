@@ -56,7 +56,7 @@ body{
  div.img#content1{background-position:0 -30px;}
  div.img#content2{background-position:0 -65px;}
  div.img#help{background-position:0 -110px;}
- div.img#faq{background-position:0 -120px;}
+ div.img#faq{background-position:0 -130px;}
  .breadcrumbs li:before{
   content:">";
  }
