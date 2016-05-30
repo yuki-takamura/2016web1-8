@@ -45,7 +45,7 @@ body{
   vertical-align:middle;
   background:url(https://raw.githubusercontent.com/yuki-takamura/2016web1-8/gh-pages/sprite.png)no-repeat;
   width:50px;
-  height:40px;
+  height:38px;
  }
  #gnav div.text{
   display:table-cell;
@@ -53,7 +53,7 @@ body{
   padding:10px 5px;
  }
  div.img#home{ background-position:0 0px;}
- div.img#content1{background-position:0 -40px;}
+ div.img#content1{background-position:0 -38px;}
  div.img#content2{background-position:0 -80px;}
  div.img#help{background-position:0 -120px;}
  div.img#faq{background-position:0 -160px;}
